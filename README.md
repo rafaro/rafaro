@@ -7,6 +7,8 @@ I'm a Ph.D. candidate in the Graduate Program in Knowledge Management and Organi
 🚀 Currently, I'm developing [**Deigmata**](https://github.com/your-username/Deigmata): a methodological process aimed at enhancing the visual exploration of knowledge graphs, focusing on interaction and insight extraction.
 
 ## 🧠 Research Interests
+- Ontology
+- Knowledge Graph
 - Semantic Web & Linked Data  
 - Interactive Visualizations  
 - Human-Computer Interaction (HCI)  
