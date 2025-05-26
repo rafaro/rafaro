@@ -12,7 +12,14 @@ I'm a Ph.D. candidate in the Graduate Program in Knowledge Management and Organi
 - Semantic Web & Linked Data  
 - Interactive Visualizations  
 - Human-Computer Interaction (HCI)  
-- Research Methodologies in Computing  
+- Research Methodologies in Computing
+
+## 🛠️ Skills & Technologies
+- **Languages:** JavaScript, TypeScript, PHP, Python, SQL
+- **Frameworks & Libraries:** Vue.js, NestJS, Quasar Framework, Laravel, D3.js, Cytoscape.js
+- **Semantic Web:** RDF, OWL, SPARQL, Protégé
+- **Methodologies:** Design Science Research (DSR), Systematic Literature Review (SLR), User-Centered Design
+- **Tools & Platforms:** GitHub, Git, Figma, VS Code, Linux, Docker
 
 ## 🌐 Let's Connect
 - 📎 **Lattes CV:** [https://lattes.cnpq.br/8076034350765004](https://lattes.cnpq.br/8076034350765004)  
