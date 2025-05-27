@@ -4,7 +4,7 @@
 
 I'm a Ph.D. candidate in the Graduate Program in Knowledge Management and Organization (PPGGOC) at the Federal University of Minas Gerais (UFMG), Brazil. My research focuses on transforming complex semantic data into intuitive visual experiences. I combine **Design Science Research (DSR)**, **Systematic Literature Reviews**, and **user-centered design** to develop innovative solutions for **interactive knowledge graph exploration**.
 
-🚀 Currently, I'm developing [**Deigmata**](https://github.com/your-username/Deigmata): a methodological process aimed at enhancing the visual exploration of knowledge graphs, focusing on interaction and insight extraction.
+🚀 Currently, I'm developing [**Deigmata**](https://github.com/rafaro/Deigmata): a methodological process aimed at enhancing the visual exploration of knowledge graphs, focusing on interaction and insight extraction.
 
 ## 🧠 Research Interests
 - Ontology
